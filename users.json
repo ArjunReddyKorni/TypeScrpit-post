@@ -1,7 +1,28 @@
 {
   "users": [
     {
-      
-    }   
+      "id": 1,
+      "username": "username",
+      "password": "password",
+      "contact": 12121,
+      "emailid": "email",
+      "address": "address"
+    },
+    {
+      "userName": null,
+      "password": "dcnjdcnjds",
+      "contact": "5656565656",
+      "emailId": "as@gmail.co",
+      "address": "ererenkjfnedjk",
+      "id": 2
+    },
+    {
+      "userName": "arfers",
+      "password": "aerdcedcae",
+      "contact": "5656565656",
+      "emailId": "as@gmail.co",
+      "address": "ererenkjfnedjk",
+      "id": 3
+    }
   ]
 }
